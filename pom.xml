@@ -28,17 +28,17 @@
 		<commons-codec.version>1.9</commons-codec.version>
 		<flo-core-services.version>00.01</flo-core-services.version>
 		<project.build.finalName>emp</project.build.finalName>
-		<project.build.directory>E:\01-Clients\12-EmployeeManagement\01-code\codebase\emp</project.build.directory>
+		<!-- <project.build.directory>E:\01-Clients\12-EmployeeManagement\01-code\codebase\emp</project.build.directory> -->
 	</properties>
 
 
 	<dependencies>
 		<!-- Floatinity Core Services -->
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.floatinity.core</groupId>
 			<artifactId>flo-core-services</artifactId>
 			<version>${flo-core-services.version}</version>
-		</dependency>
+		</dependency> -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
