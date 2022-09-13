@@ -34,11 +34,11 @@
 
 	<dependencies>
 		<!-- Floatinity Core Services -->
-		<!-- <dependency>
+		 <dependency>
 			<groupId>com.floatinity.core</groupId>
 			<artifactId>flo-core-services</artifactId>
 			<version>${flo-core-services.version}</version>
-		</dependency> -->
+		</dependency> 
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
