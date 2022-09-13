@@ -1,0 +1,44 @@
+{
+  "unitNo": 1,
+  "procInfo": "V2.0",
+  "partName": "TEST",
+  "lineNo": "L-0",
+  "machine": "M-01",
+  "location": "LOC-01",
+  "operation": "OP",
+  "customer": "Carraro",
+  "modelName": "Mod-01",
+  "partNo": "Part-01",
+  "revision": "rev-01",
+  "latestRevision": "V1.0",
+  "assemblyNo": "Assem-01",
+  "supplierCode": "sub-01",
+  "processNo": "process-01",
+  "readingTime": "2018-11-12 01:02:03.123456789",
+  "shift": "2",
+  "operator": "1",
+  "jobSerNo": "Job SrNo",
+  "values": [
+  {
+  "parameterName": "R1",
+  "paramDescription": "Any Other Information",
+  "usl": 0.2,
+  "ucl": 0.1,
+  "nom": 0,
+  "lcl": -0.1,
+  "lsl": -0.2,
+  "value": 0.101
+  },
+  {
+  "parameterName": "R2",
+  "paramDescription": "Any Other Information",
+  "usl": 0.2,
+  "ucl": 0.1,
+  "nom": 0,
+  "lcl": -0.1,
+  "lsl": -0.2,
+  "value": 0.101
+  }
+  ]
+  
+}
